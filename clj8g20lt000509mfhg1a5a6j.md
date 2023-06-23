@@ -1,6 +1,6 @@
 ---
 title: "Dev Retro 2022: Turning Lemons into Lemonade: Reflecting on the Challenges and Opportunities of 2022."
-datePublished: Fri Jun 23 2023 10:43:27 GMT+0000 (Coordinated Universal Time)
+datePublished: Mon Jan 02 2023 10:59:35 GMT+0000 (Coordinated Universal Time)
 cuid: clj8g20lt000509mfhg1a5a6j
 slug: dev-retro-2022-turning-lemons-into-lemonade-reflecting-on-the-challenges-and-opportunities-of-2022
 tags: devretro2022
