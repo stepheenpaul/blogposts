@@ -1,4 +1,11 @@
-# How to go from 0 to thousands of traffic on Hashnode?
+---
+title: "How to go from 0 to thousands of traffic on Hashnode?"
+datePublished: Tue Dec 20 2022 21:26:44 GMT+0000 (Coordinated Universal Time)
+cuid: clbwqkotb000608mdbdv4dxvg
+slug: how-to-go-from-0-to-thousands-of-traffic-on-hashnode
+tags: beginners, hashnode, 2articles1week, technical-writing-1
+
+---
 
 Hashnode is a popular platform for bloggers, developers, and tech enthusiasts to share their thoughts and knowledge with a larger audience.
 
