@@ -1,4 +1,11 @@
-# Heroku and GitHub Collaborate to Give Students Access to Cloud Development Resources
+---
+title: "Heroku and GitHub Collaborate to Give Students Access to Cloud Development Resources"
+datePublished: Thu Dec 22 2022 13:34:59 GMT+0000 (Coordinated Universal Time)
+cuid: clbz4lpwa000508lb5sk054e8
+slug: heroku-and-github-collaborate-to-give-students-access-to-cloud-development-resources
+tags: github, cloud-computing, heroku, 2articles1week
+
+---
 
 Heroku, a cloud platform for building, running, and managing applications, has announced a partnership with GitHub, a platform for developers to collaborate on code, to offer a Student Developer Program.
 
