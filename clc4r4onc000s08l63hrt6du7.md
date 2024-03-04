@@ -1,4 +1,10 @@
-# Generating a Secure VAPID Key for a Node.js Project
+---
+title: "Generating a Secure VAPID Key for a Node.js Project"
+datePublished: Mon Dec 26 2022 12:04:26 GMT+0000 (Coordinated Universal Time)
+cuid: clc4r4onc000s08l63hrt6du7
+slug: generating-a-secure-vapid-key-for-a-nodejs-project
+
+---
 
 **VAPID** stands for **Voluntary Application Server Identification for Web Push**. It is a set of specifications that allows you to identify your server and send push notifications to web applications through the Web Push Protocol.
 
