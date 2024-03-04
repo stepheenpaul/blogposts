@@ -1,4 +1,13 @@
-# Understanding and Managing Open Source Licenses for Your Project
+---
+title: "Understanding and Managing Open Source Licenses for Your Project"
+seoTitle: "Understanding and Managing Open Source Licenses for Your Project"
+seoDescription: "Understand and manage open source licenses for your software project with this comprehensive guide, featuring code samples and references to Github readme."
+datePublished: Fri Feb 10 2023 17:22:47 GMT+0000 (Coordinated Universal Time)
+cuid: cldysr95v000209l23sz4a1cc
+slug: understanding-and-managing-open-source-licenses-for-your-project
+tags: github, opensource, license, project-management, open-source-projects
+
+---
 
 As a software developer, using open-source libraries and tools in your projects can be extremely beneficial. Open-source projects can save you time and effort by providing pre-written code that can be easily integrated into your work. However, with the benefits of open source come important responsibilities to ensure that your use of these resources is compliant with the licensing agreements under which they are released.
 
