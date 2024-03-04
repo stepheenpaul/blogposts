@@ -1,4 +1,11 @@
-# Introduction to Flutter Development v1
+---
+title: "Introduction to Flutter Development v1"
+datePublished: Tue Dec 20 2022 14:22:54 GMT+0000 (Coordinated Universal Time)
+cuid: clbwbfms6000k08jte1dy0ch5
+slug: introduction-to-flutter-development-v1
+tags: flutter, flutter-examples, flutterdeveloper
+
+---
 
 Flutter is a mobile application development framework created by Google. It allows developers to build native-looking apps for both Android and iOS using a single codebase. Flutter is built on the Dart programming language and uses a reactive programming model, which means that the app's interface is updated automatically in response to changes in the underlying data.
 
