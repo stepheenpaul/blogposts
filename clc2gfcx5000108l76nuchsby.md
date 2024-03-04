@@ -1,4 +1,10 @@
-# Typescript: A Beginner - Friendly Guide to Mastery
+---
+title: "Typescript: A Beginner - Friendly Guide to Mastery"
+datePublished: Sat Dec 24 2022 21:29:16 GMT+0000 (Coordinated Universal Time)
+cuid: clc2gfcx5000108l76nuchsby
+slug: typescript-a-beginner-friendly-guide-to-mastery
+
+---
 
 Typescript is a popular programming language that is a superset of JavaScript, meaning that it includes all the features of JavaScript and adds some additional functionality. Typescript is particularly useful for larger, more complex projects, as it adds type checking and other features that can help improve the reliability and maintainability of the code.
 
